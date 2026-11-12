@@ -23,6 +23,8 @@ jobs:
           java-version: '21'
       - name: Создать README с помощью Java
         run: java tools/ReadmeGenerator.java
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Сохранить изменения
         run: |
           if ! git diff --quiet -- README.md; then
