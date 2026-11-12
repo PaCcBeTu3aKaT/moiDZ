@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="485" viewBox="0 0 1100 485" role="img" aria-labelledby="t d">
+<title id="t">Репозиторий для домашних заданий — псевдотерминал Windows 10</title>
+<desc id="d">Тёмная командная строка с шуточной проверкой целесообразности Java для README</desc>
+<rect width="1100" height="485" fill="#0d1420" rx="12"/>
+<rect x="24" y="24" width="1052" height="437" rx="5" fill="#0c0c0c" stroke="#3c4657" stroke-width="2"/>
+<path d="M29 24 H1071 Q1076 24 1076 29 V68 H24 V29 Q24 24 29 24" fill="#eff0f2"/>
+<rect x="40" y="40" width="19" height="17" rx="1" fill="#222"/>
+<path d="M43 44 H55 M43 48 H55 M43 52 H53" stroke="#eee" stroke-width="1.5"/>
+<text x="72" y="51" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#20242a">Командная строка — moiDZ</text>
+<rect x="916" y="24" width="53" height="44" fill="transparent"/>
+<path d="M935 46 h16" stroke="#323a45" stroke-width="2"/>
+<path d="M990 38 h17 v16 h-17z" fill="none" stroke="#323a45" stroke-width="2"/>
+<rect x="1023" y="24" width="53" height="44" fill="#cf4545"/>
+<path d="M1041 40 l15 13 m0 -13 l-15 13" stroke="#fff" stroke-width="2"/>
+<g font-family="Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#d6dce5">
+<text x="47" y="106" fill="#a7b3c7">Microsoft Windows 10 [имитация, без гарантий]</text>
+<text x="47" y="139" fill="#a7b3c7">(c) Права на здравый смысл не обнаружены.</text>
+<text x="47" y="192"><tspan fill="#81cfa0">C:\moiDZ&gt;</tspan> java tools\ReadmeGenerator.java</text>
+<text x="47" y="245">[ OK ] Домашние задания обнаружены.</text>
+<text x="47" y="280">[ OK ] README обновлён с помощью Java.</text>
+<text x="47" y="315" fill="#ffc879">[ ?? ] Проверка целесообразности...</text>
+<text x="47" y="350" fill="#ff7d85">[FAIL] Целесообразность не обнаружена.</text>
+<text x="47" y="403"><tspan fill="#81cfa0">C:\moiDZ&gt;</tspan> _</text>
+</g>
+</svg>
