@@ -22,7 +22,9 @@ jobs:
           distribution: temurin
           java-version: '21'
       - name: Создать README с помощью Java
-        run: java tools/ReadmeGenerator.java
+        run: |
+          javac -encoding UTF-8 -d tools/.build tools/JsonParser.java tools/ReadmeGenerator.java
+          java -cp tools/.build ReadmeGenerator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Сохранить изменения
