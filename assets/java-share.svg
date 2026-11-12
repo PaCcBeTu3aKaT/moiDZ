@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120">
+<rect width="560" height="120" rx="14" fill="#101827"/>
+<text x="20" y="31" font-family="Arial, sans-serif" font-size="17" fill="#e5e7eb">Доля Java в распознанном коде</text>
+<rect x="20" y="53" width="480" height="19" rx="7" fill="#374151"/>
+<rect x="20" y="53" width="384.40" height="19" rx="7" fill="#b07219"/>
+<text x="20" y="101" font-family="Arial, sans-serif" font-size="16" fill="#e5e7eb">Java: 80,1%</text>
+<text x="500" y="101" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#9ca3af">Остальные: 19,9%</text>
+</svg>
